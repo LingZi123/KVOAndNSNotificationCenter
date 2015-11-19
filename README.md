@@ -1,0 +1,2 @@
+# KVOAndNSNotificationCenter
+简单地KVO 和NSNotificationCenter使用例子
